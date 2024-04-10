@@ -6,7 +6,7 @@ public class SortRute extends Rute {
 
     @Override
     public void finn(Rute fra) {
-        //Kommet til sort rute så da skjer det ikke noe
+        // Sort rute sjekker ikke sine naboer
     }
 
     @Override
