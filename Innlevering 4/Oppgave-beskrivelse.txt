@@ -1,1 +1,5 @@
-I denne oppgaven har jeg utviklet et komplekst system for leger, legemidler, resepter og pasienter ved hjelp av Java-klassene som ble utviklet i tidligere innleveringer. Jeg har implementert nye klasser og gjort utvidelser i eksisterende klasser for å oppfylle oppgavens krav. Dette har inkludert å legge til funksjonalitet for å opprette og behandle pasienter, leger, resepter og legemidler. I tillegg har jeg designet og implementert et legesystem med kommando-løkke for interaksjon med brukeren. Dette har vært en omfattende oppgave som har krevd grundig planlegging av systemdesign og løsninger for å håndtere komplekse sammenhenger mellom objekter.
+I denne oppgaven har jeg utviklet et komplekst system for leger, legemidler, resepter og pasienter ved hjelp av Java-klassene som ble utviklet i tidligere innleveringer. 
+Jeg har implementert nye klasser og gjort utvidelser i eksisterende klasser for å oppfylle oppgavens krav. 
+Dette har inkludert å legge til funksjonalitet for å opprette og behandle pasienter, leger, resepter og legemidler. 
+I tillegg har jeg designet og implementert et legesystem med kommando-løkke for interaksjon med brukeren. 
+Dette har vært en omfattende oppgave som har krevd grundig planlegging av systemdesign og løsninger for å håndtere komplekse sammenhenger mellom objekter.
