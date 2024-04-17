@@ -1,0 +1,7 @@
+I innleveringsoppgave 0 har jeg utviklet syv Java-klasser som håndterer informasjon om biler og personer. 
+Først har jeg implementert Bil1-klassen med en metode som skriver ut "Jeg er en bil". 
+Deretter har jeg utvidet klassen til Bil2 ved å legge til et bilnummer for hver bil og modifisere skriv-metoden til å skrive ut dette nummeret. 
+Videre har jeg kopiert innholdet i Bil2 til Bil3 og lagt til en metode for å hente bilnummeret. 
+I tillegg har jeg opprettet Person-klassen, der hver person eier en bil, og implementert en skriv-metode som viser bilnummeret til personens bil. 
+Til slutt har jeg laget tre separate programfiler (BilBruk1, BilBruk2, og BilBruk3) med main-metoder som oppretter biler og personer 
+og kaller relevante metoder for å demonstrere funksjonaliteten til klassene jeg har skrevet.
