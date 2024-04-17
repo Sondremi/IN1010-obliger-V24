@@ -1,0 +1,11 @@
+I denne innleveringen har jeg jobbet individuelt med å utvikle ulike datastrukturer i Java. 
+Oppgaven fokuserte på å lage beholdere som ville være nyttige i senere oppgaver. 
+Jeg startet med å lage en abstrakt klasse kalt Lenkeliste<E>, som implementerer grensesnittet Liste<E>. 
+Denne klassen bruker en lenket liste for å legge til og fjerne elementer, med nye elementer som legges til på slutten og tas ut fra begynnelsen av listen. 
+Deretter skrev jeg en toString()-metode for Lenkeliste<E>, som returnerer en streng med innholdet av listen. 
+Videre utvidet jeg klassen til å lage en spesifikk type liste kalt Stabel<E>, hvor elementene legges til og tas ut fra slutten av listen. 
+Etter å ha testet Stabel<E>, gikk jeg videre til å implementere en Koe<E> klasse som fungerte som en kø, med elementer som ble lagt til og fjernet i FIFO-rekkefølge. 
+Deretter utvidet jeg oppgaven til å inkludere en IndeksertListe<E>, som tillot å indeksere listen for å finne og manipulere elementer på bestemte posisjoner. 
+Til slutt, skrev jeg en Prioritetskoe<E> klasse som arvet fra Lenkeliste<E> og sorterte elementene i stigende rekkefølge ved innsetting, med det minste elementet som ble hentet ut først. 
+Jeg sørget for å teste alle klassene mot gitte testprogrammer og skrev egne tester for å sikre korrekt funksjonalitet. 
+Til slutt leverte jeg alle påkrevde filer og dokumentasjon i henhold til oppgavekravene.
