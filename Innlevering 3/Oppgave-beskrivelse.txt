@@ -1,0 +1,5 @@
+I oppgaven har jeg implementert et program som bruker rekursjon til å finne veier ut av en labyrint. 
+Labyrintene er definert som rutenett av kvadratiske ruter, hvor hver rute kan være enten hvit (mulig å gå gjennom) eller sort (en sperre). 
+Jeg har opprettet klasser som representerer labyrinten, rutene og åpningene, og implementert metoder for å lese inn labyrinter fra fil, finne utveier ved hjelp av rekursjon, og skrive ut veiene fra startpunktene. 
+Jeg har også jobbet med å håndtere sykliske labyrinter og implementert valgfrie utvidelser som feilsøking, lagring av utveier, og søk etter den korteste utveien. 
+Til slutt har jeg organisert og levert oppgaven i henhold til spesifikasjonene gitt.
