@@ -1,0 +1,7 @@
+I innleveringsoppgaven "Game of Life" har jeg utviklet et program som simulerer cellers liv og død ved hjelp av Conway's Game of Life-modellen. 
+Jeg har implementert fire klasser: Celle, Rutenett, Verden, og GameOfLife, hvor hver klasse har spesifikke oppgaver i simuleringen. 
+I Celle-klassen har jeg sørget for å beskrive en celle og dens egenskaper, inkludert status (levende/død) og naboer. 
+Rutenett-klassen håndterer et todimensjonalt brett av celler og oppdaterer statusen til hver celle basert på spillets regler. 
+Verden-klassen er ansvarlig for å oppdatere rutenettet og tegne hver generasjon av simuleringen i terminalen. 
+Til slutt, i GameOfLife-klassen, har jeg skrevet hovedprogrammet som oppretter en Verden og viser utviklingen gjennom flere generasjoner. 
+Ved å følge spillets regler og implementere disse klassene har jeg muliggjort en komplett simulering av cellenes liv og død i Conway's Game of Life.
