@@ -1,0 +1,7 @@
+I denne innleveringen har jeg utviklet et system for å håndtere informasjon om leger, pasienter, resepter og legemidler. 
+Jeg har skrevet klasser for legemidler, resepter og leger, og implementert relevante metoder og egenskaper i disse klassene. 
+I tillegg har jeg gjennomført enhetstester for å sikre at de forskjellige klassene fungerer som forventet. 
+I del A har jeg opprettet klasser for legemidler, inkludert narkotiske, vanedannende og vanlige legemidler, og gjennomført tester for disse. 
+Deretter har jeg i del B implementert klasser for resepter, inkludert hvite og blå resepter med deres subklasser, og gjennomført tester for disse. 
+I del C har jeg utviklet klasser for leger, inkludert spesialister med godkjenningsfritak, og gjennomført tilsvarende tester. 
+Til slutt har jeg gjennomført en integrasjonstest i del D og utarbeidet en datastrukturtegning i del E som illustrerer objekter og deres tilstand i et enkelt hovedprogram.
