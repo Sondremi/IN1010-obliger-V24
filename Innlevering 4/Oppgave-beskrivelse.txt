@@ -1,5 +1,1 @@
-Innlevering 4 handler om å utvikle et komplekst system for leger, legemidler, resepter og pasienter ved hjelp av Java-klassene som er utviklet i tidligere innleveringer. 
-Oppgaven anbefaler gruppearbeid, men kan også gjøres individuelt med noe redusert arbeidsomfang. 
-I oppgaven må det implementeres nye klasser og gjøres utvidelser i eksisterende klasser. 
-Deler av oppgaven krever grundig planlegging av systemdesign og løsninger for å håndtere komplekse sammenhenger mellom objekter. 
-Blant annet må det legges til funksjonalitet for å opprette og behandle pasienter, leger, resepter og legemidler, samt implementere et legesystem med kommando-løkke for interaksjon med brukeren. 
+I denne oppgaven har jeg utviklet et komplekst system for leger, legemidler, resepter og pasienter ved hjelp av Java-klassene som ble utviklet i tidligere innleveringer. Jeg har implementert nye klasser og gjort utvidelser i eksisterende klasser for å oppfylle oppgavens krav. Dette har inkludert å legge til funksjonalitet for å opprette og behandle pasienter, leger, resepter og legemidler. I tillegg har jeg designet og implementert et legesystem med kommando-løkke for interaksjon med brukeren. Dette har vært en omfattende oppgave som har krevd grundig planlegging av systemdesign og løsninger for å håndtere komplekse sammenhenger mellom objekter.
