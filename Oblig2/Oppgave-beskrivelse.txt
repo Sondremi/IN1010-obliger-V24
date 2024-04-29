@@ -1,1 +1,10 @@
-
+I denne oppgaven har jeg utviklet et program for å analysere blodprøver og finne sekvensmønstre som indikerer en infeksjon av et spesifikt virus. 
+Programmet analyserer immunrepertoarene til personer som har blitt smittet og de som ikke har blitt smittet av viruset. 
+Immunrepertoaret til hver person er representert som en fil med DNA-sekvenser av immunceller i blodet. 
+Målet er å finne korte, like substrenger eller subsekvenser i disse DNA-sekvensene, som kan brukes til å diagnostisere infeksjon av det spesifikke viruset. 
+Jeg har implementert ulike klasser og metoder for å lese og behandle datafilene, samt for å finne og analysere mønstre i immunrepertoarene. 
+Gjennom ulike oppgaver har jeg bygget opp løsningen skritt for skritt, og jeg har sørget for at programmet mitt alltid kompilerer og kjører. 
+Del 1 av oppgaven omhandler å finne antall like subsekvenser uten parallellitet, mens del 2 involverer å finne mønstre ved hjelp av tråder. 
+Jeg har implementert trådklasser og monitorer for å parallellisere deler av programmet, slik at lesing av filer og fletting av resultater kan utføres samtidig. 
+Til slutt har jeg satt opp hovedprogrammet for å lese datafiler, legge resultatene i passende monitorer, flette HashMap-er og finne dominante subsekvenser som indikerer infeksjon av viruset. 
+Programmet er designet for å kunne brukes til å diagnostisere ulike typer virusinfeksjoner og kan potensielt forbedre diagnostiseringen av autoimmune sykdommer og kreft.
