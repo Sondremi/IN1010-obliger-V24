@@ -1,0 +1,6 @@
+I denne oppgaven har jeg utviklet et GUI-grensesnitt for implementasjonen av Game of Life som jeg tidligere lagde i Oblig 1. 
+Jeg har brukt koden fra Oblig 1 som utgangspunkt og har ikke endret den, men har heller lagt til et grafisk grensesnitt rundt den eksisterende funksjonaliteten. 
+Grensesnittet lar brukeren klikke på rutene for å endre statusen til cellene (levende/død). 
+Når brukeren klikker på Start-knappen, starter en klokke som genererer neste generasjon med to sekunders intervaller og viser den. 
+Ved å klikke på Avslutt-knappen, avsluttes hele programmet. 
+Oppgaven har gitt meg frihet til å velge løsninger innenfor de gitte rammene, og det å finne en egnet løsning har vært en del av utfordringen.
